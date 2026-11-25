@@ -2,7 +2,7 @@
 
 An interactive browser-based Drum Kit built with **HTML**, **CSS**, and **JavaScript**. Trigger drum sounds by clicking the on-screen buttons or pressing the corresponding uppercase keys (`W`, `A`, `S`, `D`, `J`, `K`, `L`) on your keyboard.
 
-**Live Demo:** [your-project-name.vercel.app](https://vercel.app)
+**Live Demo:** [https://drumkit-seven-xi.vercel.app/])
 
 ---
 
