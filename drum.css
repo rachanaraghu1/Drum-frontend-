@@ -1,0 +1,110 @@
+*{
+    background-color:darkslategray;
+}
+.container{
+    position: absolute;
+    text-align: center;
+    top:8%;
+    left: 28%;
+    font-size: 3rem;
+    color: aliceblue;
+}
+.boxes{
+    font-weight: 100;
+    margin: 10% auto;
+    
+}
+.box1{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color: rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(crash.png);
+}
+.box2{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color: rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(kick.png);
+}
+.box3{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color: rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(snare.png);
+}
+.box4{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color: rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(tom1.png);
+}
+.box5{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color:rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(tom2.png);
+}
+.box6{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color:rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(tom3.png);
+}
+.box7{
+    background-color: white;
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgrey;
+    font-size: 2REM;
+    color:rgb(97, 4, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10%;
+    background-size: cover;
+    background-image: url(tom4.png);
+}
+footer{
+    font-size: 1rem;
+}
